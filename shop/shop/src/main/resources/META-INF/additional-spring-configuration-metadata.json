@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "selected_strategy",
+      "type": "ro.msg.learning.shop.Configuration.StrategyEnum",
+      "description": "Description for selected_strategy."
+    }
+  ] }

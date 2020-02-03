@@ -1,0 +1,10 @@
+insert into address (address_id, city, country, county, street_address) values (1, 'Maputo', 'Mozambique', 'MZ', '520 Susan Drive');
+insert into address (address_id, city, country, county, street_address) values (2, 'Birmingham', 'United States', 'US', '80938 Heath Avenue');
+insert into address (address_id, city, country, county, street_address) values (3, 'Ban Nahin', 'Laos', 'LA', '4 Mayfield Court');
+insert into address (address_id, city, country, county, street_address) values (4, 'Huarong Chengguanzhen', 'China', 'CN', '23220 Cherokee Park');
+insert into address (address_id, city, country, county, street_address) values (5, 'Culacling', 'Philippines', 'PH', '037 Rockefeller Circle');
+insert into address (address_id, city, country, county, street_address) values (6, 'Žďár nad Sázavou Druhy', 'Czech Republic', 'CZ', '7634 Moose Crossing');
+insert into address (address_id, city, country, county, street_address) values (7, 'Mostovskoy', 'Russia', 'RU', '75 Chive Avenue');
+insert into address (address_id, city, country, county, street_address) values (8, 'Weiguo', 'China', 'CN', '86 Donald Drive');
+insert into address (address_id, city, country, county, street_address) values (9, 'Wonocoyo Utara', 'Indonesia', 'ID', '9 Sutteridge Street');
+insert into address (address_id, city, country, county, street_address) values (10, 'Hidalgo', 'Mexico', 'MX', '7 Vidon Circle');

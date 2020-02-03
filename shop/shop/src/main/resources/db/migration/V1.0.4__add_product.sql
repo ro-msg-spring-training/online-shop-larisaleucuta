@@ -1,0 +1,10 @@
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (1, 'Torus fx radius/ulna-clo', 'http://dummyimage.com/198x118.jpg/cc0000/ffffff', 'Asoka', 32.49, 95.05, 10);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (2, 'Erosion-pulp', 'http://dummyimage.com/134x208.png/dddddd/000000', 'Fixflex', 15.19, 29.75, 4);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (3, 'Tick-borne relaps fever', 'http://dummyimage.com/241x121.png/dddddd/000000', 'Opela', 85.62, 21.18, 5);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (4, 'Cannabis abuse-episodic', 'http://dummyimage.com/178x241.jpg/5fa2dd/ffffff', 'Zoolab', 34.78, 51.0, 3);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (5, 'Mal neo stom great curv', 'http://dummyimage.com/114x107.jpg/cc0000/ffffff', 'Cookley', 63.37, 79.24, 2);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (6, 'AMI NOS, initial', 'http://dummyimage.com/230x226.png/dddddd/000000', 'Stim', 83.41, 86.4, 7);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (7, 'Amyotrophic sclerosis', 'http://dummyimage.com/117x144.jpg/cc0000/ffffff', 'Fintone', 87.21, 1.31, 8);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (8, 'Pneumonia strptococcus b', 'http://dummyimage.com/199x234.jpg/5fa2dd/ffffff', 'Viva', 7.98, 90.53, 5);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (9, 'Hallucinogen dep-remiss', 'http://dummyimage.com/110x189.jpg/ff4444/ffffff', 'Ventosanzap', 62.54, 16.91, 9);
+insert into product (product_id, description, image_url, name, price, weight, category_category_id) values (10, 'Ac kidny fail, tubr necr', 'http://dummyimage.com/172x165.bmp/dddddd/000000', 'Gembucket', 86.03, 66.25, 1);

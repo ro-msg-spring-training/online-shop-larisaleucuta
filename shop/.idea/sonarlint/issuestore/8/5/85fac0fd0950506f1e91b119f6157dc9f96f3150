@@ -1,0 +1,5 @@
+
+?squid:S1068"(Remove this unused "name" private field.(Ë¥¼
+usquid:S00116"VRename this field "location_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÜÍß8Ë¾‹ëú-
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”ğòü8Ë¾‹ëú-
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’í48Ë¾‹ëú-

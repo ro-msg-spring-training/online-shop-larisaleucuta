@@ -1,0 +1,10 @@
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (1, 43, 3, 4);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (2, 66, 4, 4);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (3, 48, 3, 2);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (4, 29, 4, 3);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (5, 70, 7, 5);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (6, 29, 7, 2);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (7, 64, 4, 2);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (8, 28, 2, 3);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (9, 50, 7, 4);
+insert into stock (stock_id, quantity, location_location_id, product_product_id) values (10, 3, 1, 9);

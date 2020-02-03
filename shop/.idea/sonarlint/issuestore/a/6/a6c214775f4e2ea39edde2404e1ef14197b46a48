@@ -1,0 +1,6 @@
+
+ssquid:S00116"URename this field "address_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÎ¿I8Ê¾‹ëú-
+Nsquid:S1068"+Remove this unused "country" private field.(“—àÊúÿÿÿÿ8Ê¾‹ëú-
+Fsquid:S1068"(Remove this unused "city" private field.(“øÌà8Ê¾‹ëú-
+Hsquid:S1068"*Remove this unused "county" private field.(’ãúò8Ê¾‹ëú-
+Osquid:S1068"1Remove this unused "streetAddress" private field.(ôºÉ´8Ê¾‹ëú-

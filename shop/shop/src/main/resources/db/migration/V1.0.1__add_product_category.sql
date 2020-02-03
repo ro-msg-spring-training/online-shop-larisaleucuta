@@ -1,0 +1,10 @@
+insert into product_category (category_id, description, name) values (1, 'Reposition Coccygeal Joint, Open Approach', 'artisteer.com');
+insert into product_category (category_id, description, name) values (2, 'Extirpation of Matter from Small Intestine, Perc Approach', 'eepurl.com');
+insert into product_category (category_id, description, name) values (3, 'Drainage of L Sternoclav Jt with Drain Dev, Open Approach', 'elegantthemes.com');
+insert into product_category (category_id, description, name) values (4, 'Remove of Extralum Dev from Great Vessel, Perc Endo Approach', 'cnet.com');
+insert into product_category (category_id, description, name) values (5, 'Destruction of Left Carotid Body, Perc Endo Approach', 'wiley.com');
+insert into product_category (category_id, description, name) values (6, 'Inspection of Left Knee Region, Open Approach', 'xrea.com');
+insert into product_category (category_id, description, name) values (7, 'Insertion of Monitor Dev into Kidney, Perc Endo Approach', 'baidu.com');
+insert into product_category (category_id, description, name) values (8, 'Occlusion of Left Vas Deferens, Percutaneous Approach', 'chron.com');
+insert into product_category (category_id, description, name) values (9, 'Repair Upper Gingiva, Percutaneous Approach', 'skyrock.com');
+insert into product_category (category_id, description, name) values (10, 'Repair Left Shoulder Tendon, Perc Endo Approach', 'whitehouse.gov');
