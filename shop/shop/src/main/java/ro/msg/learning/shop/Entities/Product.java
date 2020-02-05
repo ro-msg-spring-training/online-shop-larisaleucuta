@@ -20,7 +20,6 @@ public class Product {
     @Id
     @Column(unique = true)
     private Integer productId;
-
     private String name;
     private String description;
     private BigDecimal price;

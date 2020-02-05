@@ -8,9 +8,8 @@ import lombok.*;
 @Setter
 @Getter
 @Builder
-public class OrderDetailDto {
+public class RoleDto {
 
-    private Integer orderDetailId;
-    private Integer productId;
-    private Integer quantity;
+    private Integer roleId;
+    private String name;
 }

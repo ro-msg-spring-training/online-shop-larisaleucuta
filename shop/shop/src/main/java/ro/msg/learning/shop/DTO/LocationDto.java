@@ -12,6 +12,7 @@ import java.io.Serializable;
 @Builder
 public class LocationDto implements Serializable {
 
+    private Integer locationId;
     private String name;
     private AddressDto locationAddressDto;
 

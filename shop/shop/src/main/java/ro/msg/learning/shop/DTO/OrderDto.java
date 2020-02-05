@@ -13,6 +13,7 @@ import java.util.List;
 @Builder
 public class OrderDto {
 
+    private Integer orderId;
     private LocalDateTime timeStamp;
     private AddressDto deliveryAddress;
     private List<OrderDetailDto> orderDetailDtoList;

@@ -10,6 +10,7 @@ import lombok.*;
 @Builder
 public class StockDto {
 
+    private Integer stockId;
     private Integer quantity;
     private Integer productId;
     private LocationDto locationDto;

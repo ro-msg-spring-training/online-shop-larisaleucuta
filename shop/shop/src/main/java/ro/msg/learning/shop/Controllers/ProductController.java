@@ -8,6 +8,7 @@ import ro.msg.learning.shop.Services.ProductsService;
 
 import java.util.List;
 
+@CrossOrigin(origins = "http://localhost:4200")
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("/products")
